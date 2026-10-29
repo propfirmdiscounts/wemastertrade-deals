@@ -1,5 +1,20 @@
 [
   {
+    "deal_id": 13060,
+    "title": "Halloween Cut: 36% Off Every Package",
+    "offer_type": "coupon",
+    "discount_value": "36%",
+    "scope": [
+      "All Packages"
+    ],
+    "date_published": "2026-10-29",
+    "date_exp": "2026-10-31",
+    "last_verified": "2026-10-29",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/",
+    "prop_firm": "WeMasterTrade",
+    "prop_firm_slug": "wemastertrade"
+  },
+  {
     "deal_id": 13051,
     "title": "33% off every package with a tiered bonus account",
     "offer_type": "coupon",

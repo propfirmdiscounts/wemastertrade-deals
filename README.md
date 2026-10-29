@@ -12,27 +12,28 @@ Use discount code **PFD** to get **20% off** on WeMasterTrade challenges and acc
 
 ## Latest Deal
 
-### WeMasterTrade - 33% off every package with a tiered bonus account
+### WeMasterTrade - Halloween Cut: 36% Off Every Package
 
-**Published:** 2026-10-27  
-**Offer ends:** 2026-11-01 02:59  
-**Discount:** 33% off  
-**Scope:** All Packages, Bogo Account, Spend Tiers $175, $300, $600, First Successful Po  
+**Published:** 2026-10-29  
+**Offer ends:** 2026-10-31  
+**Discount:** 36% off  
+**Scope:** All Packages  
 
 **Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
 
-**Deal page:** https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-tiered-bogo/
+**Deal page:** https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/
 
 ---
 
 ## Deal History
 
-Total deals tracked: **28**
+Total deals tracked: **29**
 
-### 2026 (28 deals)
+### 2026 (29 deals)
 
 | Deal Date | Title | Discount | Expires | Deal Link |
 |---|---|---|---|---|
+| 2026-10-29 | Halloween Cut: 36% Off Every Package | 36% off | 2026-10-31 | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/) |
 | 2026-10-27 | 33% off every package with a tiered bonus account | 33% off | 2026-11-01 02:59 | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-tiered-bogo/) |
 | 2026-10-23 | 33% Off Packages With Entry Fee Cut | 33% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-limited-codes/) |
 | 2026-10-03 | 30% Off All Evaluation Packages | 30% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/) |
@@ -66,17 +67,17 @@ Total deals tracked: **28**
 
 ## About This Repository
 
-This repository tracks all historical deals for **WeMasterTrade** published on PropFirmDiscount.com. Updated hourly via automated sync.
+This repository tracks all historical deals for **WeMasterTrade** published on PropFirmDiscount.com. Updated automatically from the live API.
 
 **Data source:** PropFirmDiscount.com  
 **Prop firm profile:** https://propfirmdiscount.com/prop-firm/wemastertrade/  
 
 ## Freshness
 
-<!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T16:00:32Z (auto, hourly)
-
-Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
+This mirror is synced from the live API on a schedule; the deal history
+above is the source of truth for what changed and when. Codes are
+re-verified continuously by the PropFirmDiscount team. Campaign codes
+come and go with each promotion; standing codes are re-verified yearly.
 
 ## License
 
