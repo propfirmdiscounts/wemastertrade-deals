@@ -1,0 +1,8 @@
+# WeMasterTrade Discount Codes
+
+This dataset tracks historical deal observations for WeMasterTrade from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFD (20%)
+Works any time on all WeMasterTrade challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/wemastertrade/
