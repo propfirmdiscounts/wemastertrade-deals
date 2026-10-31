@@ -21,6 +21,7 @@ As of 2026-10-29, the verified WeMasterTrade discount code is **PFD** — up to 
 - Published: 2026-10-29
 - Offer ends: 2026-10-31
 - Offer: 36% off
+- Event: Halloween
 - Scope: All Packages
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/
@@ -49,7 +50,7 @@ Total deals tracked: **29**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-29 | Halloween Cut: 36% Off Every Package | 36% off | 2026-10-31 | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/) |
+| 2026-10-29 | Halloween Cut: 36% Off Every Package | 36% off | 2026-10-31 | Halloween | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/) |
 | 2026-10-27 | 33% off every package with a tiered bonus account | 33% off | 2026-11-01 02:59 | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-tiered-bogo/) |
 | 2026-10-23 | 33% Off Packages With Entry Fee Cut | 33% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-limited-codes/) |
 | 2026-10-03 | 30% Off All Evaluation Packages | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/) |
@@ -63,18 +64,18 @@ Total deals tracked: **29**
 | 2026-07-07 | 28% Off Evaluation Packages Promotion | 28% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-28-percent-off-promotion/) |
 | 2026-06-26 | 32% Off All Packages | 32% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-32-percent-off-packages/) |
 | 2026-06-10 | 30% Discount and $35 10K Instant Account | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-discount-35-10k-account-africa/) |
-| 2026-05-01 | 30% Off All Packages Evaluation Pricing For Labour Day | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-labour-day-30-off-packages/) |
+| 2026-05-01 | 30% Off All Packages Evaluation Pricing For Labour Day | 30% off | Ended | International Worker's Day | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-labour-day-30-off-packages/) |
 | 2026-04-16 | 31% Off All Evaluation Accounts (24-Hour Promotion) | 31% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/31-percent-off-evaluation-packages-24-hours/) |
 | 2026-04-14 | 25% Discount Voucher and MT5 Lucky Draw Promotion | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-25-percent-voucher-mt5-lucky-draw/) |
 | 2026-04-09 | 20% Off 510Zero and 51010 Evaluation Accounts | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-20-percent-off-510zero-51010/) |
-| 2026-04-04 | 30% Off All Evaluation Accounts Entry Fee | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-all-packages-easter/) |
+| 2026-04-04 | 30% Off All Evaluation Accounts Entry Fee | 30% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-all-packages-easter/) |
 | 2026-03-29 | 30% Off All Trading Challenges and 40% Future Discount | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-percent-off-all-packages/) |
 | 2026-03-27 | 28% Off Evaluation Accounts and 40% Future Discount | 28% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-28-percent-discount-deal/) |
 | 2026-03-25 | 28% Off All Evaluation Packages For 24 Hours | 28% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/28-off-all-packages-24-hours/) |
-| 2026-03-20 | Eid Al-Fitr Promotion Cuts Upfront Entry Costs By 25% | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-eid-al-fitr-25-percent-discount-2026/) |
+| 2026-03-20 | Eid Al-Fitr Promotion Cuts Upfront Entry Costs By 25% | 25% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-eid-al-fitr-25-percent-discount-2026/) |
 | 2026-03-19 | 30% Off All Evaluation Accounts | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-evaluation-packages/) |
 | 2026-03-16 | 24% Fee Reduction on All Packages for Kenyan Traders | 24% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-24-off-kenya-packages/) |
-| 2026-03-08 | 30% Off All Evaluation Accounts: International Women’s Day Challenge Pricing | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-womens-day-2026/) |
+| 2026-03-08 | 30% Off All Evaluation Accounts: International Women’s Day Challenge Pricing | 30% off | Ended | International Women's Day | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-womens-day-2026/) |
 | 2026-03-03 | 25% Off Initial Purchase Price | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-25-off-discount/) |
 | 2026-03-02 | 30% Off All Evaluation Accounts - Flash Sale Entry Cost | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-all-packages-flash-sale/) |
 | 2026-02-23 | 30% Discount On Evaluation Entry Fee | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-percent-evaluation-discount/) |
