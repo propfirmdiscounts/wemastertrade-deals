@@ -1,553 +1,553 @@
 [
   {
-    "prop_firm": "WeMasterTrade",
-    "prop_firm_slug": "wemastertrade",
-    "standing_code": "PFD",
-    "standing_discount": "20%",
-    "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
     "deal_id": 13060,
     "title": "Halloween Cut: 36% Off Every Package",
-    "date_published": "2026-10-29",
-    "date_exp": "2026-10-31",
-    "discount_value": "36%",
-    "last_verified": "2026-10-29",
     "offer_type": "coupon",
+    "discount_value": "36%",
     "scope": [
       "All Packages"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/"
-  },
-  {
+    "date_published": "2026-10-29",
+    "date_exp": "2026-10-31",
+    "last_verified": "2026-10-29",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 13051,
     "title": "33% off every package with a tiered bonus account",
-    "date_published": "2026-10-27",
-    "date_exp": "2026-11-01 02:59",
-    "discount_value": "33%",
-    "last_verified": "2026-10-27",
     "offer_type": "coupon",
+    "discount_value": "33%",
     "scope": [
       "All Packages, Bogo Account, Spend Tiers $175, $300, $600, First Successful Po"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-tiered-bogo/"
-  },
-  {
+    "date_published": "2026-10-27",
+    "date_exp": "2026-11-01 02:59",
+    "last_verified": "2026-10-27",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-tiered-bogo/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 13012,
     "title": "33% Off Packages With Entry Fee Cut",
-    "date_published": "2026-10-23",
-    "date_exp": "Limited time",
-    "discount_value": "33%",
-    "last_verified": "2026-10-23",
     "offer_type": "coupon",
+    "discount_value": "33%",
     "scope": [
       "All Packages, Flash Sale"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-limited-codes/"
-  },
-  {
+    "date_published": "2026-10-23",
+    "date_exp": "Limited time",
+    "last_verified": "2026-10-23",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-limited-codes/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 12771,
     "title": "30% Off All Evaluation Packages",
-    "date_published": "2026-10-03",
-    "date_exp": "Limited time",
-    "discount_value": "30%",
-    "last_verified": "2026-10-03",
     "offer_type": "coupon",
+    "discount_value": "30%",
     "scope": [
       "All Packages, All Account Sizes, Flash Sale"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/"
-  },
-  {
+    "date_published": "2026-10-03",
+    "date_exp": "Limited time",
+    "last_verified": "2026-10-03",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 12770,
     "title": "32% Reduction on Evaluation Accounts Plus Giveaway Entry",
-    "date_published": "2026-09-30",
-    "date_exp": "Ended",
-    "discount_value": "32%",
-    "last_verified": "2026-09-30",
     "offer_type": "coupon",
+    "discount_value": "32%",
     "scope": [
       "All Packages, Lucky Spin Entries"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-32-off-festival-spin/"
-  },
-  {
+    "date_published": "2026-09-30",
+    "date_exp": "Ended",
+    "last_verified": "2026-09-30",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-32-off-festival-spin/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 12625,
     "title": "33% Off Packages + Up To $50K BOGO",
-    "date_published": "2026-08-30",
-    "date_exp": "Ended",
-    "discount_value": "33%",
-    "last_verified": "2026-08-30",
     "offer_type": "coupon",
+    "discount_value": "33%",
     "scope": [
       "All Packages, $10K Account, $25K Account, $50K Account"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/33-off-packages-tiered-bogo-august-2026/"
-  },
-  {
+    "date_published": "2026-08-30",
+    "date_exp": "Ended",
+    "last_verified": "2026-08-30",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/33-off-packages-tiered-bogo-august-2026/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 12626,
     "title": "32% Off Flash Deal and Bonus Evaluation Accounts",
-    "date_published": "2026-08-26",
-    "date_exp": "Ended",
-    "discount_value": "32%",
-    "last_verified": "2026-08-26",
     "offer_type": "coupon",
+    "discount_value": "32%",
     "scope": [
       "All Packages, $10K, $25K, $50K Accounts"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-32-off-flash-deal/"
-  },
-  {
+    "date_published": "2026-08-26",
+    "date_exp": "Ended",
+    "last_verified": "2026-08-26",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-32-off-flash-deal/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 12624,
     "title": "31% Off All Evaluation Accounts",
+    "offer_type": "coupon",
+    "discount_value": "31%",
+    "scope": [
+      "All Packages"
+    ],
     "date_published": "2026-08-25",
     "date_exp": "Ended",
-    "discount_value": "31%",
     "last_verified": "2026-08-25",
-    "offer_type": "coupon",
-    "scope": [
-      "All Packages"
-    ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-31-off-all-packages-2/"
-  },
-  {
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-31-off-all-packages-2/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 12623,
     "title": "31% Off All Evaluation Packages",
+    "offer_type": "coupon",
+    "discount_value": "31%",
+    "scope": [
+      "All Packages"
+    ],
     "date_published": "2026-07-23",
     "date_exp": "Ended",
-    "discount_value": "31%",
     "last_verified": "2026-07-23",
-    "offer_type": "coupon",
-    "scope": [
-      "All Packages"
-    ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-31-off-all-packages/"
-  },
-  {
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-31-off-all-packages/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 12622,
     "title": "32% Discount On Challenge Pricing For All Packages",
+    "offer_type": "coupon",
+    "discount_value": "32%",
+    "scope": [
+      "All Packages"
+    ],
     "date_published": "2026-07-16",
     "date_exp": "Ended",
-    "discount_value": "32%",
     "last_verified": "2026-07-16",
-    "offer_type": "coupon",
-    "scope": [
-      "All Packages"
-    ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-32-percent-off-flash-deal/"
-  },
-  {
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-32-percent-off-flash-deal/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 12621,
     "title": "30% Off All Evaluation Accounts",
-    "date_published": "2026-07-14",
-    "date_exp": "Ended",
-    "discount_value": "30%",
-    "last_verified": "2026-07-14",
     "offer_type": "coupon",
+    "discount_value": "30%",
     "scope": [
       "All Packages"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-evaluation-accounts/"
-  },
-  {
+    "date_published": "2026-07-14",
+    "date_exp": "Ended",
+    "last_verified": "2026-07-14",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-evaluation-accounts/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 12620,
     "title": "28% Off Evaluation Packages Promotion",
-    "date_published": "2026-07-07",
-    "date_exp": "Ended",
-    "discount_value": "28%",
-    "last_verified": "2026-07-07",
     "offer_type": "coupon",
+    "discount_value": "28%",
     "scope": [
       "All Packages, Evaluation Accounts"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-28-percent-off-promotion/"
-  },
-  {
+    "date_published": "2026-07-07",
+    "date_exp": "Ended",
+    "last_verified": "2026-07-07",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-28-percent-off-promotion/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 12619,
     "title": "32% Off All Packages",
-    "date_published": "2026-06-26",
-    "date_exp": "Ended",
-    "discount_value": "32%",
-    "last_verified": "2026-06-26",
     "offer_type": "coupon",
+    "discount_value": "32%",
     "scope": [
       "All Packages, Evaluation"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-32-percent-off-packages/"
-  },
-  {
+    "date_published": "2026-06-26",
+    "date_exp": "Ended",
+    "last_verified": "2026-06-26",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-32-percent-off-packages/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 12176,
     "title": "30% Discount and $35 10K Instant Account",
-    "date_published": "2026-06-10",
-    "date_exp": "Ended",
-    "discount_value": "30%",
-    "last_verified": "2026-06-10",
     "offer_type": "coupon",
+    "discount_value": "30%",
     "scope": [
       "10K Instant Funded Account, Africa Plus Package, African Customers"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-discount-35-10k-account-africa/"
-  },
-  {
+    "date_published": "2026-06-10",
+    "date_exp": "Ended",
+    "last_verified": "2026-06-10",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-discount-35-10k-account-africa/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 11855,
     "title": "30% Off All Packages Evaluation Pricing For Labour Day",
+    "offer_type": "coupon",
+    "discount_value": "30%",
+    "scope": [
+      "All Packages"
+    ],
     "date_published": "2026-05-01",
     "date_exp": "Ended",
-    "discount_value": "30%",
     "last_verified": "2026-05-01",
-    "offer_type": "coupon",
-    "scope": [
-      "All Packages"
-    ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-labour-day-30-off-packages/"
-  },
-  {
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-labour-day-30-off-packages/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 11725,
     "title": "31% Off All Evaluation Accounts (24-Hour Promotion)",
-    "date_published": "2026-04-16",
-    "date_exp": "Ended",
-    "discount_value": "31%",
-    "last_verified": "2026-04-16",
     "offer_type": "coupon",
+    "discount_value": "31%",
     "scope": [
       "All Packages"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/31-percent-off-evaluation-packages-24-hours/"
-  },
-  {
+    "date_published": "2026-04-16",
+    "date_exp": "Ended",
+    "last_verified": "2026-04-16",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/31-percent-off-evaluation-packages-24-hours/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 11724,
     "title": "25% Discount Voucher and MT5 Lucky Draw Promotion",
-    "date_published": "2026-04-14",
-    "date_exp": "Ended",
-    "discount_value": "25%",
-    "last_verified": "2026-04-14",
     "offer_type": "deal",
+    "discount_value": "25%",
     "scope": [
       "Mt5 Accounts, New Registrations, Instant Accounts, April Promotion"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-25-percent-voucher-mt5-lucky-draw/"
-  },
-  {
+    "date_published": "2026-04-14",
+    "date_exp": "Ended",
+    "last_verified": "2026-04-14",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-25-percent-voucher-mt5-lucky-draw/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 11666,
     "title": "20% Off 510Zero and 51010 Evaluation Accounts",
-    "date_published": "2026-04-09",
-    "date_exp": "Ended",
-    "discount_value": "20%",
-    "last_verified": "2026-04-09",
     "offer_type": "coupon",
+    "discount_value": "20%",
     "scope": [
       "510Zero, 51010, Evaluation Models"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-20-percent-off-510zero-51010/"
-  },
-  {
+    "date_published": "2026-04-09",
+    "date_exp": "Ended",
+    "last_verified": "2026-04-09",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-20-percent-off-510zero-51010/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 11637,
     "title": "30% Off All Evaluation Accounts Entry Fee",
-    "date_published": "2026-04-04",
-    "date_exp": "Ended",
-    "discount_value": "30%",
-    "last_verified": "2026-04-04",
     "offer_type": "coupon",
+    "discount_value": "30%",
     "scope": [
       "All Packages"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-all-packages-easter/"
-  },
-  {
+    "date_published": "2026-04-04",
+    "date_exp": "Ended",
+    "last_verified": "2026-04-04",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-all-packages-easter/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 11622,
     "title": "30% Off All Trading Challenges and 40% Future Discount",
-    "date_published": "2026-03-29",
-    "date_exp": "Ended",
-    "discount_value": "30%",
-    "last_verified": "2026-03-29",
     "offer_type": "coupon",
+    "discount_value": "30%",
     "scope": [
       "All Packages, All Account Sizes"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-percent-off-all-packages/"
-  },
-  {
+    "date_published": "2026-03-29",
+    "date_exp": "Ended",
+    "last_verified": "2026-03-29",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-percent-off-all-packages/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 11621,
     "title": "28% Off Evaluation Accounts and 40% Future Discount",
-    "date_published": "2026-03-27",
-    "date_exp": "Ended",
-    "discount_value": "28%",
-    "last_verified": "2026-03-27",
     "offer_type": "coupon",
+    "discount_value": "28%",
     "scope": [
       "All Packages, 40% Future Discount"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-28-percent-discount-deal/"
-  },
-  {
+    "date_published": "2026-03-27",
+    "date_exp": "Ended",
+    "last_verified": "2026-03-27",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-28-percent-discount-deal/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 11525,
     "title": "28% Off All Evaluation Packages For 24 Hours",
-    "date_published": "2026-03-25",
-    "date_exp": "Ended",
-    "discount_value": "28%",
-    "last_verified": "2026-03-25",
     "offer_type": "coupon",
+    "discount_value": "28%",
     "scope": [
       "All Packages, All Account Sizes, 24-Hour Flash Sale"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/28-off-all-packages-24-hours/"
-  },
-  {
+    "date_published": "2026-03-25",
+    "date_exp": "Ended",
+    "last_verified": "2026-03-25",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/28-off-all-packages-24-hours/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 11492,
     "title": "Eid Al-Fitr Promotion Cuts Upfront Entry Costs By 25%",
-    "date_published": "2026-03-20",
-    "date_exp": "Ended",
-    "discount_value": "25%",
-    "last_verified": "2026-03-20",
     "offer_type": "coupon",
+    "discount_value": "25%",
     "scope": [
       "All Packages, All Sizes"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-eid-al-fitr-25-percent-discount-2026/"
-  },
-  {
+    "date_published": "2026-03-20",
+    "date_exp": "Ended",
+    "last_verified": "2026-03-20",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-eid-al-fitr-25-percent-discount-2026/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 11479,
     "title": "30% Off All Evaluation Accounts",
-    "date_published": "2026-03-19",
-    "date_exp": "Ended",
-    "discount_value": "30%",
-    "last_verified": "2026-03-19",
     "offer_type": "coupon",
+    "discount_value": "30%",
     "scope": [
       "All Packages, All Account Sizes"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-evaluation-packages/"
-  },
-  {
+    "date_published": "2026-03-19",
+    "date_exp": "Ended",
+    "last_verified": "2026-03-19",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-evaluation-packages/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 11432,
     "title": "24% Fee Reduction on All Packages for Kenyan Traders",
-    "date_published": "2026-03-16",
-    "date_exp": "Ended",
-    "discount_value": "24%",
-    "last_verified": "2026-03-16",
     "offer_type": "coupon",
+    "discount_value": "24%",
     "scope": [
       "All Packages, Kenya Clients Only"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-24-off-kenya-packages/"
-  },
-  {
+    "date_published": "2026-03-16",
+    "date_exp": "Ended",
+    "last_verified": "2026-03-16",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-24-off-kenya-packages/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 11369,
     "title": "30% Off All Evaluation Accounts: International Women’s Day Challenge Pricing",
-    "date_published": "2026-03-08",
-    "date_exp": "Ended",
-    "discount_value": "30%",
-    "last_verified": "2026-03-08",
     "offer_type": "coupon",
+    "discount_value": "30%",
     "scope": [
       "All Evaluation Packages, All Customers"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-womens-day-2026/"
-  },
-  {
+    "date_published": "2026-03-08",
+    "date_exp": "Ended",
+    "last_verified": "2026-03-08",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-womens-day-2026/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 11318,
     "title": "25% Off Initial Purchase Price",
-    "date_published": "2026-03-03",
-    "date_exp": "Ended",
-    "discount_value": "25%",
-    "last_verified": "2026-03-03",
     "offer_type": "coupon",
+    "discount_value": "25%",
     "scope": [
       "Instant Funding, Account Activation"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-25-off-discount/"
-  },
-  {
+    "date_published": "2026-03-03",
+    "date_exp": "Ended",
+    "last_verified": "2026-03-03",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-25-off-discount/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 11301,
     "title": "30% Off All Evaluation Accounts - Flash Sale Entry Cost",
-    "date_published": "2026-03-02",
-    "date_exp": "Ended",
-    "discount_value": "30%",
-    "last_verified": "2026-03-02",
     "offer_type": "coupon",
+    "discount_value": "30%",
     "scope": [
       "All Packages, Flash Sale"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-all-packages-flash-sale/"
-  },
-  {
+    "date_published": "2026-03-02",
+    "date_exp": "Ended",
+    "last_verified": "2026-03-02",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-all-packages-flash-sale/",
     "prop_firm": "WeMasterTrade",
     "prop_firm_slug": "wemastertrade",
     "standing_code": "PFD",
     "standing_discount": "20%",
     "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
+  },
+  {
     "deal_id": 11243,
     "title": "30% Discount On Evaluation Entry Fee",
-    "date_published": "2026-02-23",
-    "date_exp": "Ended",
-    "discount_value": "30%",
-    "last_verified": "2026-02-23",
     "offer_type": "coupon",
+    "discount_value": "30%",
     "scope": [
       "Users Who Received The Official Email"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-percent-evaluation-discount/"
+    "date_published": "2026-02-23",
+    "date_exp": "Ended",
+    "last_verified": "2026-02-23",
+    "post_url": "https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-percent-evaluation-discount/",
+    "prop_firm": "WeMasterTrade",
+    "prop_firm_slug": "wemastertrade",
+    "standing_code": "PFD",
+    "standing_discount": "20%",
+    "activation_link": "https://propfirmdiscount.com/go/wemastertrade",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/wemastertrade/"
   }
 ]
