@@ -47,7 +47,7 @@ Total deals tracked: **29**
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
 | 2026-10-29 | Halloween Cut: 36% Off Every Package | 36% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/) |
-| 2026-10-27 | 33% off every package with a tiered bonus account | 33% off | 2026-11-01 02:59 | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-tiered-bogo/) |
+| 2026-10-27 | 33% off every package with a tiered bonus account | 33% off | 2026-11-01 02:59 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-tiered-bogo/) |
 | 2026-10-23 | 33% Off Packages With Entry Fee Cut | 33% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-limited-codes/) |
 | 2026-10-03 | 30% Off All Evaluation Packages | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/) |
 | 2026-09-30 | 32% Reduction on Evaluation Accounts Plus Giveaway Entry | 32% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-32-off-festival-spin/) |
