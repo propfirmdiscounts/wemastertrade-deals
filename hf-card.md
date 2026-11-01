@@ -21,10 +21,6 @@ tags:
 
 As of 2026-10-29, the verified WeMasterTrade discount code is PFD — up to 20% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-> Best Funded Trader &amp; Online Forex Education Provider 2024. | Trustpilot Notice: Why you see a warning on our page: https://wemastertrade.com/understanding-our-trustpilot-page-a-transparent-explanation/ | Trader Reviews: Check our official ratings on FxVerify: https://fxverify.com/prop-firms/wemastertrade-review-4594 | WeMasterTrade provides funded trading accounts and professional tools for long-term trader success in a transparent environment.
->
-> — WeMasterTrade, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/wemastertrade.com)
-
 - Code: PFD
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
@@ -38,7 +34,7 @@ As of 2026-10-29, the verified WeMasterTrade discount code is PFD — up to 20% 
 ## Current WeMasterTrade deal: Halloween Cut: 36% Off Every Package
 
 - Published: 2026-10-29
-- Offer ends: 2026-10-31
+- Offer ends: 2026-10-31 (ended)
 - Offer: 36% off
 - Event: Halloween
 - Scope: All Packages
@@ -57,7 +53,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current WeMasterTrade deal?**
 
-**Halloween Cut: 36% Off Every Package** — published 2026-10-29. Offer ends: 2026-10-31. The offer is 36% off.
+**Halloween Cut: 36% Off Every Package** — published 2026-10-29. Offer ends: 2026-10-31 (ended). The offer is 36% off.
 
 ---
 
@@ -69,7 +65,7 @@ Total deals tracked: **29**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-29 | Halloween Cut: 36% Off Every Package | 36% off | 2026-10-31 | Halloween | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/) |
+| 2026-10-29 | Halloween Cut: 36% Off Every Package | 36% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/) |
 | 2026-10-27 | 33% off every package with a tiered bonus account | 33% off | 2026-11-01 02:59 | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-tiered-bogo/) |
 | 2026-10-23 | 33% Off Packages With Entry Fee Cut | 33% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-33-off-all-packages-limited-codes/) |
 | 2026-10-03 | 30% Off All Evaluation Packages | 30% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-30-off-flash-sale/) |
