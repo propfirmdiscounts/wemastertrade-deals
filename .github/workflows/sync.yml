@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: wemastertrade
+  HF_NAMESPACE: prop-firm
   FIRM_SLUG: wemastertrade
   DEALSTORE_ID: 382
   FIRM_NAME: WeMasterTrade
