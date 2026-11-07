@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: wemastertrade-discount-codes
+  HF_NAMESPACE: wemastertrade
+  HF_REPO_NAME: wemastertrade-deals
   FIRM_SLUG: wemastertrade
   DEALSTORE_ID: 382
   FIRM_NAME: WeMasterTrade
