@@ -10,7 +10,7 @@ As of 2026-10-29, the verified WeMasterTrade discount code is PFD — up to 20% 
 - Discount: Up to 20% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-29
-- Trustpilot: 3.9/5 (2357 reviews)
+- Trustpilot: 3.9/5 (2361 reviews)
 - Activate: https://propfirmdiscount.com/go/wemastertrade
 - Firm page: https://propfirmdiscount.com/prop-firm/wemastertrade/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
