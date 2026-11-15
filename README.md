@@ -10,11 +10,12 @@ As of 2026-11, the verified WeMasterTrade discount code is PFD — 30% OFF, work
 - Discount: 30% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-29
-- Trustpilot: 3.9/5 (2360 reviews)
-- Activate: https://propfirmdiscount.com/go/wemastertrade
-- Firm page: https://propfirmdiscount.com/prop-firm/wemastertrade/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [3.9/5 (2360 reviews)](https://www.trustpilot.com/review/wemastertrade.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/wemastertrade-deals](https://github.com/propfirmdiscounts/wemastertrade-deals)
+- Activate: [https://propfirmdiscount.com/go/wemastertrade](https://propfirmdiscount.com/go/wemastertrade)
+- Firm page: [https://propfirmdiscount.com/prop-firm/wemastertrade/](https://propfirmdiscount.com/prop-firm/wemastertrade/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current WeMasterTrade deal: Halloween Cut: 36% Off Every Package
 
@@ -24,7 +25,7 @@ As of 2026-11, the verified WeMasterTrade discount code is PFD — 30% OFF, work
 - Event: Halloween
 - Scope: All Packages
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/
+- Deal page: [https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/)
 
 ## WeMasterTrade discount code FAQ
 
@@ -86,9 +87,9 @@ Total deals tracked: **29**
 
 This repository mirrors every deal **WeMasterTrade** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/wemastertrade/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/wemastertrade/](https://propfirmdiscount.com/prop-firm/wemastertrade/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/wemastertrade-deals.json`
 
