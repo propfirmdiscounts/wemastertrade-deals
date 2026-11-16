@@ -1,6 +1,6 @@
 # WeMasterTrade - Discount Codes & Deal History
 
-As of November 2026, the verified WeMasterTrade discount code is PFD — 30% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified WeMasterTrade discount code is PFD — 20% OFF, which can be applied on the checkout page anytime. The newest is "Halloween Cut: 36% Off Every Package".
 
 > Best Instant Prop APAC 2026 and Top Instant Funding Innovation Asia 2025 award winner. Read our transparent explanation of the Trustpilot warning at https://wemastertrade.com/understanding-our-trustpilot-page-a-transparent-explanation/ and explore our review page on FXVerify at https://fxverify.com/prop-firms/wemastertrade-review-4594.
 >
@@ -11,11 +11,11 @@ As of November 2026, the verified WeMasterTrade discount code is PFD — 30% OFF
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-29
 - Trustpilot: [3.9/5 (2360 reviews)](https://www.trustpilot.com/review/wemastertrade.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/wemastertrade-deals](https://github.com/propfirmdiscounts/wemastertrade-deals)
-- Activate: [https://propfirmdiscount.com/go/wemastertrade](https://propfirmdiscount.com/go/wemastertrade)
-- Firm page: [https://propfirmdiscount.com/prop-firm/wemastertrade/](https://propfirmdiscount.com/prop-firm/wemastertrade/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [WeMasterTrade Deals Repository](https://github.com/propfirmdiscounts/wemastertrade-deals)
+- Activate: [Activate WeMasterTrade Discount Code](https://propfirmdiscount.com/go/wemastertrade)
+- Firm page: [WeMasterTrade Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/wemastertrade/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [WeMasterTrade API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current WeMasterTrade deal: Halloween Cut: 36% Off Every Package
 
@@ -25,7 +25,7 @@ As of November 2026, the verified WeMasterTrade discount code is PFD — 30% OFF
 - Event: Halloween
 - Scope: All Packages
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/)
+- Deal page: [WeMasterTrade Deal Page](https://propfirmdiscount.com/deals/wemastertrade/wemastertrade-halloween-36-off-all-packages/)
 
 ## WeMasterTrade discount code FAQ
 
@@ -87,9 +87,9 @@ Total deals tracked: **29**
 
 This repository mirrors every deal **WeMasterTrade** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/wemastertrade/](https://propfirmdiscount.com/prop-firm/wemastertrade/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [WeMasterTrade Profile](https://propfirmdiscount.com/prop-firm/wemastertrade/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/wemastertrade-deals.json`
 
@@ -132,4 +132,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
