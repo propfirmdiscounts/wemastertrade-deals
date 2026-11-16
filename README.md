@@ -1,6 +1,6 @@
 # WeMasterTrade - Discount Codes & Deal History
 
-As of 2026-11, the verified WeMasterTrade discount code is PFD — 30% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified WeMasterTrade discount code is PFD — 30% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
 
 > Best Instant Prop APAC 2026 and Top Instant Funding Innovation Asia 2025 award winner. Read our transparent explanation of the Trustpilot warning at https://wemastertrade.com/understanding-our-trustpilot-page-a-transparent-explanation/ and explore our review page on FXVerify at https://fxverify.com/prop-firms/wemastertrade-review-4594.
 >
