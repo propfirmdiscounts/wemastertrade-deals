@@ -1,0 +1,6 @@
+title: "WeMasterTrade - Discount Codes & Deal History"
+description: "As of November 2026, the verified WeMasterTrade discount code is PFD — 30% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes."
+url: "https://propfirmdiscounts.github.io"
+baseurl: "/wemastertrade-deals"
+plugins:
+  - jekyll-seo-tag
