@@ -1,4 +1,4 @@
-# WeMasterTrade Discount Codes
+# WeMasterTrade Discount Code & Deals History
 
 This dataset tracks historical deal observations for WeMasterTrade from PropFirmDiscount.com.
 
